@@ -1,0 +1,16 @@
+Student Performance Prediction Results
+Dataset rows: 395
+Training records: 316
+Testing records: 79
+Accuracy: 0.8734
+F1-score: 0.9000
+ROC-AUC: 0.9485
+
+              precision    recall  f1-score   support
+
+        Fail       0.75      0.92      0.83        26
+        Pass       0.96      0.85      0.90        53
+
+    accuracy                           0.87        79
+   macro avg       0.85      0.89      0.86        79
+weighted avg       0.89      0.87      0.88        79
